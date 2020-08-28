@@ -1,0 +1,29 @@
+/**
+ * Aardvark theme for Moodle - material-inspired theme based on bootstrap.
+ *
+ * DO NOT MODIFY THIS THEME!
+ * COPY IT FIRST, THEN RENAME THE COPY AND MODIFY IT INSTEAD.
+ *
+ * For full information about creating Moodle themes, see:
+ * http://docs.moodle.org/dev/Themes_2.0
+ *
+ * @package   theme_aardvark
+ * @copyright 2013 Moodle, moodle.org
+ * @license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
+ */
+
+/* Body
+-------------------------*/
+body {
+	color:orange;
+}
+#frontpage-available-course-list{
+	color:red;
+	background-color: blueviolet;
+}
+.coursebox {
+	background-color: rgb(43, 226, 150);
+}
+.content{
+	background-color: rgb(43, 226, 150);
+}
